@@ -21,4 +21,5 @@ public class PiadaService {
         piadas.add(new Piada(1,"Qual tempero é odiado pelos outros? O sal grosso!"));
         piadas.add(new Piada(2,"Qual é o nome da cidade que molha os bêbados quando chove? BarSemLona"));
     }
+    piadas.add(new Piada(1, "O que é um pontinho verde no canto da sala? Uma ervilha de castigo."));
 }
